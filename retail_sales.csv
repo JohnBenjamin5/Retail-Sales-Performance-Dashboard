@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Year,Month_Number,Month_Name,Year_Month,Customer_ID,City,Region,Category,Product,Quantity,Unit_Price_INR,Discount_Pct,Gross_Sales_INR,Discount_Amount_INR,Sales_INR,Calculated_Net_Sales_INR,Payment_Method,Sales_Channel
+ORD0050,2025-01-01,2025,1,January,2025-01,CUST085,Pune,West,Home & Kitchen,Cookware Set,4,2600,0.0,10400,0.0,10400.0,10400.0,Debit Card,Online
+ORD0187,2025-01-01,2025,1,January,2025-01,CUST048,Pune,West,Fashion,Jeans,5,1600,0.1,8000,800.0,7200.0,7200.0,UPI,Store
+ORD0091,2025-01-02,2025,1,January,2025-01,CUST009,Coimbatore,South,Books,Biography,4,420,0.05,1680,84.0,1596.0,1596.0,Credit Card,Store
+ORD0472,2025-01-03,2025,1,January,2025-01,CUST124,Pune,West,Electronics,Monitor,4,8500,0.15,34000,5100.0,28900.0,28900.0,Credit Card,Online
+ORD0500,2025-01-03,2025,1,January,2025-01,CUST079,Pune,West,Books,Biography,5,420,0.0,2100,0.0,2100.0,2100.0,Credit Card,Store
+ORD0064,2025-01-04,2025,1,January,2025-01,CUST140,Hyderabad,South,Fashion,Backpack,4,1200,0.15,4800,720.0,4080.0,4080.0,Credit Card,Store
+ORD0155,2025-01-04,2025,1,January,2025-01,CUST075,Bengaluru,South,Fashion,Jeans,2,1600,0.05,3200,160.0,3040.0,3040.0,Debit Card,Online
+ORD0156,2025-01-04,2025,1,January,2025-01,CUST137,Coimbatore,South,Books,Technical Book,2,750,0.1,1500,150.0,1350.0,1350.0,Credit Card,Store
+ORD0322,2025-01-05,2025,1,January,2025-01,CUST130,Coimbatore,South,Home & Kitchen,Electric Kettle,4,1400,0.15,5600,840.0,4760.0,4760.0,Cash,Store
+ORD0296,2025-01-07,2025,1,January,2025-01,CUST063,Hyderabad,South,Books,Exam Guide,1,500,0.15,500,75.0,425.0,425.0,Credit Card,Store
+ORD0354,2025-01-07,2025,1,January,2025-01,CUST089,Mumbai,West,Home & Kitchen,Mixer Grinder,2,3200,0.1,6400,640.0,5760.0,5760.0,Debit Card,Online
+ORD0478,2025-01-07,2025,1,January,2025-01,CUST014,Pune,West,Electronics,Wireless Mouse,4,650,0.0,2600,0.0,2600.0,2600.0,UPI,Online
+ORD0482,2025-01-07,2025,1,January,2025-01,CUST058,Mumbai,West,Fashion,Jeans,5,1600,0.1,8000,800.0,7200.0,7200.0,Debit Card,Online
+ORD0349,2025-01-08,2025,1,January,2025-01,CUST130,Hyderabad,South,Home & Kitchen,Mixer Grinder,1,3200,0.1,3200,320.0,2880.0,2880.0,Debit Card,Store
+ORD0441,2025-01-08,2025,1,January,2025-01,CUST058,Hyderabad,South,Home & Kitchen,Mixer Grinder,1,3200,0.0,3200,0.0,3200.0,3200.0,Debit Card,Store
+ORD0080,2025-01-09,2025,1,January,2025-01,CUST079,Chennai,South,Fashion,Jeans,4,1600,0.0,6400,0.0,6400.0,6400.0,Debit Card,Store
+ORD0189,2025-01-09,2025,1,January,2025-01,CUST149,Hyderabad,South,Electronics,Headphones,2,1800,0.0,3600,0.0,3600.0,3600.0,Debit Card,Online
+ORD0281,2025-01-09,2025,1,January,2025-01,CUST129,Pune,West,Fashion,Watch,3,2200,0.0,6600,0.0,6600.0,6600.0,Cash,Online
+ORD0184,2025-01-10,2025,1,January,2025-01,CUST136,Hyderabad,South,Home & Kitchen,Electric Kettle,5,1400,0.15,7000,1050.0,5950.0,5950.0,Cash,Online
+ORD0070,2025-01-11,2025,1,January,2025-01,CUST030,Pune,West,Home & Kitchen,Electric Kettle,2,1400,0.1,2800,280.0,2520.0,2520.0,Credit Card,Store
+ORD0387,2025-01-11,2025,1,January,2025-01,CUST052,Pune,West,Books,Fiction Book,3,350,0.15,1050,157.5,892.5,892.5,Credit Card,Store
+ORD0256,2025-01-12,2025,1,January,2025-01,CUST019,Coimbatore,South,Fashion,T-Shirt,2,650,0.15,1300,195.0,1105.0,1105.0,UPI,Store
+ORD0364,2025-01-13,2025,1,January,2025-01,CUST097,Bengaluru,South,Fashion,T-Shirt,3,650,0.0,1950,0.0,1950.0,1950.0,Debit Card,Online
+ORD0295,2025-01-14,2025,1,January,2025-01,CUST154,Chennai,South,Fashion,Watch,1,2200,0.15,2200,330.0,1870.0,1870.0,Debit Card,Store
+ORD0149,2025-01-15,2025,1,January,2025-01,CUST002,Bengaluru,South,Fashion,Sneakers,3,2800,0.05,8400,420.0,7980.0,7980.0,Credit Card,Online
+ORD0416,2025-01-20,2025,1,January,2025-01,CUST069,Coimbatore,South,Fashion,Jeans,1,1600,0.1,1600,160.0,1440.0,1440.0,Debit Card,Online
+ORD0484,2025-01-21,2025,1,January,2025-01,CUST042,Coimbatore,South,Fashion,Watch,3,2200,0.0,6600,0.0,6600.0,6600.0,Debit Card,Online
+ORD0190,2025-01-23,2025,1,January,2025-01,CUST047,Hyderabad,South,Fashion,Jeans,4,1600,0.1,6400,640.0,5760.0,5760.0,Credit Card,Online
+ORD0366,2025-01-23,2025,1,January,2025-01,CUST149,Bengaluru,South,Books,Notebook Set,4,250,0.0,1000,0.0,1000.0,1000.0,UPI,Online
+ORD0406,2025-01-23,2025,1,January,2025-01,CUST069,Hyderabad,South,Books,Exam Guide,3,500,0.0,1500,0.0,1500.0,1500.0,UPI,Online
+ORD0085,2025-01-24,2025,1,January,2025-01,CUST004,Chennai,South,Fashion,Jeans,4,1600,0.0,6400,0.0,6400.0,6400.0,Debit Card,Store
+ORD0223,2025-01-24,2025,1,January,2025-01,CUST093,Coimbatore,South,Electronics,Monitor,5,8500,0.0,42500,0.0,42500.0,42500.0,Debit Card,Online
+ORD0460,2025-01-24,2025,1,January,2025-01,CUST148,Chennai,South,Fashion,Sneakers,1,2800,0.15,2800,420.0,2380.0,2380.0,Credit Card,Store
+ORD0058,2025-01-26,2025,1,January,2025-01,CUST119,Pune,West,Home & Kitchen,Mixer Grinder,4,3200,0.0,12800,0.0,12800.0,12800.0,Debit Card,Store
+ORD0377,2025-01-26,2025,1,January,2025-01,CUST098,Bengaluru,South,Books,Exam Guide,4,500,0.0,2000,0.0,2000.0,2000.0,Cash,Online
+ORD0270,2025-01-27,2025,1,January,2025-01,CUST019,Hyderabad,South,Books,Biography,5,420,0.0,2100,0.0,2100.0,2100.0,Credit Card,Online
+ORD0010,2025-01-29,2025,1,January,2025-01,CUST017,Bengaluru,South,Electronics,Headphones,4,1800,0.05,7200,360.0,6840.0,6840.0,Credit Card,Store
+ORD0264,2025-01-29,2025,1,January,2025-01,CUST148,Bengaluru,South,Fashion,Jeans,5,1600,0.05,8000,400.0,7600.0,7600.0,Debit Card,Online
+ORD0285,2025-01-29,2025,1,January,2025-01,CUST112,Mumbai,West,Electronics,Keyboard,1,1100,0.1,1100,110.0,990.0,990.0,Debit Card,Online
+ORD0280,2025-01-31,2025,1,January,2025-01,CUST137,Pune,West,Books,Exam Guide,1,500,0.0,500,0.0,500.0,500.0,Cash,Online
+ORD0253,2025-02-01,2025,2,February,2025-02,CUST043,Pune,West,Home & Kitchen,Desk Lamp,5,900,0.0,4500,0.0,4500.0,4500.0,Debit Card,Store
+ORD0023,2025-02-04,2025,2,February,2025-02,CUST072,Chennai,South,Fashion,T-Shirt,5,650,0.0,3250,0.0,3250.0,3250.0,Cash,Online
+ORD0188,2025-02-04,2025,2,February,2025-02,CUST100,Pune,West,Electronics,USB Drive,4,550,0.0,2200,0.0,2200.0,2200.0,Debit Card,Store
+ORD0199,2025-02-04,2025,2,February,2025-02,CUST009,Bengaluru,South,Fashion,Sneakers,4,2800,0.15,11200,1680.0,9520.0,9520.0,Credit Card,Store
+ORD0312,2025-02-04,2025,2,February,2025-02,CUST028,Hyderabad,South,Electronics,Wireless Mouse,1,650,0.05,650,32.5,617.5,617.5,Credit Card,Online
+ORD0106,2025-02-05,2025,2,February,2025-02,CUST001,Hyderabad,South,Books,Notebook Set,5,250,0.05,1250,62.5,1187.5,1187.5,Debit Card,Store
+ORD0157,2025-02-06,2025,2,February,2025-02,CUST020,Coimbatore,South,Electronics,USB Drive,1,550,0.1,550,55.0,495.0,495.0,Debit Card,Store
+ORD0118,2025-02-07,2025,2,February,2025-02,CUST065,Coimbatore,South,Fashion,Watch,3,2200,0.1,6600,660.0,5940.0,5940.0,Cash,Store
+ORD0215,2025-02-07,2025,2,February,2025-02,CUST124,Mumbai,West,Electronics,Keyboard,4,1100,0.1,4400,440.0,3960.0,3960.0,Cash,Online
+ORD0389,2025-02-07,2025,2,February,2025-02,CUST078,Hyderabad,South,Books,Biography,1,420,0.05,420,21.0,399.0,399.0,Debit Card,Online
+ORD0290,2025-02-08,2025,2,February,2025-02,CUST116,Hyderabad,South,Books,Notebook Set,1,250,0.05,250,12.5,237.5,237.5,Cash,Online
+ORD0369,2025-02-08,2025,2,February,2025-02,CUST028,Bengaluru,South,Home & Kitchen,Desk Lamp,1,900,0.0,900,0.0,900.0,900.0,Credit Card,Store
+ORD0463,2025-02-08,2025,2,February,2025-02,CUST013,Coimbatore,South,Fashion,Jeans,3,1600,0.05,4800,240.0,4560.0,4560.0,Credit Card,Store
+ORD0166,2025-02-09,2025,2,February,2025-02,CUST099,Mumbai,West,Electronics,Monitor,5,8500,0.15,42500,6375.0,36125.0,36125.0,Cash,Online
+ORD0288,2025-02-09,2025,2,February,2025-02,CUST100,Hyderabad,South,Home & Kitchen,Desk Lamp,2,900,0.15,1800,270.0,1530.0,1530.0,Debit Card,Store
+ORD0339,2025-02-09,2025,2,February,2025-02,CUST003,Bengaluru,South,Home & Kitchen,Desk Lamp,4,900,0.0,3600,0.0,3600.0,3600.0,Debit Card,Online
+ORD0195,2025-02-10,2025,2,February,2025-02,CUST027,Coimbatore,South,Home & Kitchen,Desk Lamp,3,900,0.05,2700,135.0,2565.0,2565.0,UPI,Store
+ORD0409,2025-02-10,2025,2,February,2025-02,CUST147,Coimbatore,South,Electronics,Monitor,5,8500,0.15,42500,6375.0,36125.0,36125.0,Credit Card,Online
+ORD0213,2025-02-11,2025,2,February,2025-02,CUST159,Chennai,South,Fashion,Jeans,5,1600,0.1,8000,800.0,7200.0,7200.0,UPI,Store
+ORD0259,2025-02-11,2025,2,February,2025-02,CUST138,Mumbai,West,Home & Kitchen,Cookware Set,1,2600,0.0,2600,0.0,2600.0,2600.0,Cash,Online
+ORD0404,2025-02-11,2025,2,February,2025-02,CUST126,Coimbatore,South,Electronics,Headphones,4,1800,0.1,7200,720.0,6480.0,6480.0,Debit Card,Online
+ORD0438,2025-02-11,2025,2,February,2025-02,CUST002,Coimbatore,South,Fashion,Jeans,3,1600,0.0,4800,0.0,4800.0,4800.0,Cash,Store
+ORD0351,2025-02-12,2025,2,February,2025-02,CUST138,Hyderabad,South,Electronics,Monitor,2,8500,0.0,17000,0.0,17000.0,17000.0,Debit Card,Store
+ORD0019,2025-02-13,2025,2,February,2025-02,CUST033,Mumbai,West,Books,Fiction Book,5,350,0.0,1750,0.0,1750.0,1750.0,Cash,Online
+ORD0079,2025-02-13,2025,2,February,2025-02,CUST122,Bengaluru,South,Books,Exam Guide,5,500,0.0,2500,0.0,2500.0,2500.0,Cash,Store
+ORD0362,2025-02-14,2025,2,February,2025-02,CUST075,Pune,West,Books,Fiction Book,3,350,0.0,1050,0.0,1050.0,1050.0,Debit Card,Online
+ORD0494,2025-02-14,2025,2,February,2025-02,CUST019,Chennai,South,Electronics,Keyboard,3,1100,0.15,3300,495.0,2805.0,2805.0,Credit Card,Store
+ORD0100,2025-02-15,2025,2,February,2025-02,CUST132,Hyderabad,South,Fashion,Sneakers,1,2800,0.1,2800,280.0,2520.0,2520.0,UPI,Store
+ORD0123,2025-02-16,2025,2,February,2025-02,CUST034,Hyderabad,South,Fashion,Backpack,2,1200,0.0,2400,0.0,2400.0,2400.0,Debit Card,Store
+ORD0133,2025-02-16,2025,2,February,2025-02,CUST086,Mumbai,West,Home & Kitchen,Desk Lamp,1,900,0.0,900,0.0,900.0,900.0,Credit Card,Online
+ORD0453,2025-02-16,2025,2,February,2025-02,CUST117,Pune,West,Electronics,Wireless Mouse,3,650,0.0,1950,0.0,1950.0,1950.0,Debit Card,Store
+ORD0055,2025-02-17,2025,2,February,2025-02,CUST007,Bengaluru,South,Fashion,Jeans,2,1600,0.0,3200,0.0,3200.0,3200.0,UPI,Online
+ORD0337,2025-02-17,2025,2,February,2025-02,CUST043,Mumbai,West,Fashion,Sneakers,1,2800,0.05,2800,140.0,2660.0,2660.0,UPI,Store
+ORD0225,2025-02-19,2025,2,February,2025-02,CUST037,Coimbatore,South,Fashion,Sneakers,5,2800,0.05,14000,700.0,13300.0,13300.0,Credit Card,Store
+ORD0492,2025-02-19,2025,2,February,2025-02,CUST109,Bengaluru,South,Electronics,Wireless Mouse,2,650,0.0,1300,0.0,1300.0,1300.0,UPI,Online
+ORD0142,2025-02-20,2025,2,February,2025-02,CUST116,Mumbai,West,Electronics,Monitor,2,8500,0.1,17000,1700.0,15300.0,15300.0,Credit Card,Store
+ORD0274,2025-02-20,2025,2,February,2025-02,CUST081,Mumbai,West,Books,Notebook Set,2,250,0.05,500,25.0,475.0,475.0,Cash,Online
+ORD0240,2025-02-21,2025,2,February,2025-02,CUST002,Coimbatore,South,Fashion,Backpack,1,1200,0.0,1200,0.0,1200.0,1200.0,Credit Card,Store
+ORD0294,2025-02-22,2025,2,February,2025-02,CUST143,Bengaluru,South,Electronics,Keyboard,4,1100,0.1,4400,440.0,3960.0,3960.0,Cash,Online
+ORD0341,2025-02-22,2025,2,February,2025-02,CUST035,Hyderabad,South,Fashion,Sneakers,2,2800,0.1,5600,560.0,5040.0,5040.0,Credit Card,Online
+ORD0310,2025-02-23,2025,2,February,2025-02,CUST090,Hyderabad,South,Books,Fiction Book,1,350,0.0,350,0.0,350.0,350.0,Debit Card,Store
+ORD0075,2025-02-24,2025,2,February,2025-02,CUST046,Coimbatore,South,Fashion,Backpack,2,1200,0.1,2400,240.0,2160.0,2160.0,Debit Card,Store
+ORD0282,2025-02-24,2025,2,February,2025-02,CUST135,Chennai,South,Home & Kitchen,Electric Kettle,2,1400,0.15,2800,420.0,2380.0,2380.0,Debit Card,Store
+ORD0072,2025-02-25,2025,2,February,2025-02,CUST102,Pune,West,Electronics,Headphones,5,1800,0.1,9000,900.0,8100.0,8100.0,Credit Card,Online
+ORD0471,2025-02-25,2025,2,February,2025-02,CUST118,Coimbatore,South,Electronics,Monitor,1,8500,0.1,8500,850.0,7650.0,7650.0,Credit Card,Store
+ORD0136,2025-02-26,2025,2,February,2025-02,CUST061,Mumbai,West,Electronics,Keyboard,1,1100,0.05,1100,55.0,1045.0,1045.0,Debit Card,Online
+ORD0186,2025-02-26,2025,2,February,2025-02,CUST037,Coimbatore,South,Electronics,Monitor,5,8500,0.0,42500,0.0,42500.0,42500.0,Debit Card,Store
+ORD0093,2025-02-28,2025,2,February,2025-02,CUST019,Pune,West,Home & Kitchen,Electric Kettle,3,1400,0.0,4200,0.0,4200.0,4200.0,UPI,Online
+ORD0104,2025-02-28,2025,2,February,2025-02,CUST131,Coimbatore,South,Electronics,Keyboard,4,1100,0.05,4400,220.0,4180.0,4180.0,Debit Card,Store
+ORD0148,2025-02-28,2025,2,February,2025-02,CUST158,Hyderabad,South,Home & Kitchen,Water Bottle,5,450,0.15,2250,337.5,1912.5,1912.5,UPI,Store
+ORD0450,2025-02-28,2025,2,February,2025-02,CUST068,Chennai,South,Books,Technical Book,5,750,0.0,3750,0.0,3750.0,3750.0,Credit Card,Store
+ORD0489,2025-02-28,2025,2,February,2025-02,CUST160,Mumbai,West,Fashion,Backpack,2,1200,0.15,2400,360.0,2040.0,2040.0,Credit Card,Online
+ORD0254,2025-03-01,2025,3,March,2025-03,CUST131,Mumbai,West,Home & Kitchen,Desk Lamp,4,900,0.0,3600,0.0,3600.0,3600.0,Cash,Online
+ORD0455,2025-03-01,2025,3,March,2025-03,CUST085,Chennai,South,Electronics,Wireless Mouse,2,650,0.0,1300,0.0,1300.0,1300.0,Debit Card,Store
+ORD0319,2025-03-02,2025,3,March,2025-03,CUST037,Bengaluru,South,Fashion,T-Shirt,2,650,0.05,1300,65.0,1235.0,1235.0,Cash,Store
+ORD0110,2025-03-06,2025,3,March,2025-03,CUST135,Pune,West,Fashion,T-Shirt,4,650,0.0,2600,0.0,2600.0,2600.0,Cash,Online
+ORD0173,2025-03-07,2025,3,March,2025-03,CUST005,Mumbai,West,Electronics,USB Drive,5,550,0.05,2750,137.5,2612.5,2612.5,Debit Card,Store
+ORD0473,2025-03-07,2025,3,March,2025-03,CUST130,Chennai,South,Books,Biography,5,420,0.05,2100,105.0,1995.0,1995.0,Cash,Store
+ORD0209,2025-03-08,2025,3,March,2025-03,CUST078,Coimbatore,South,Electronics,Wireless Mouse,5,650,0.0,3250,0.0,3250.0,3250.0,Credit Card,Online
+ORD0442,2025-03-08,2025,3,March,2025-03,CUST043,Chennai,South,Books,Biography,5,420,0.05,2100,105.0,1995.0,1995.0,UPI,Online
+ORD0445,2025-03-09,2025,3,March,2025-03,CUST032,Bengaluru,South,Electronics,Monitor,5,8500,0.0,42500,0.0,42500.0,42500.0,Debit Card,Online
+ORD0038,2025-03-10,2025,3,March,2025-03,CUST070,Hyderabad,South,Electronics,Wireless Mouse,5,650,0.0,3250,0.0,3250.0,3250.0,Debit Card,Online
+ORD0067,2025-03-11,2025,3,March,2025-03,CUST084,Coimbatore,South,Home & Kitchen,Mixer Grinder,3,3200,0.1,9600,960.0,8640.0,8640.0,Credit Card,Store
+ORD0330,2025-03-11,2025,3,March,2025-03,CUST064,Coimbatore,South,Electronics,Headphones,2,1800,0.0,3600,0.0,3600.0,3600.0,Credit Card,Store
+ORD0013,2025-03-12,2025,3,March,2025-03,CUST040,Pune,West,Books,Fiction Book,1,350,0.0,350,0.0,350.0,350.0,Credit Card,Store
+ORD0183,2025-03-12,2025,3,March,2025-03,CUST115,Chennai,South,Fashion,Backpack,2,1200,0.1,2400,240.0,2160.0,2160.0,UPI,Online
+ORD0279,2025-03-12,2025,3,March,2025-03,CUST056,Mumbai,West,Home & Kitchen,Mixer Grinder,2,3200,0.0,6400,0.0,6400.0,6400.0,Cash,Store
+ORD0437,2025-03-12,2025,3,March,2025-03,CUST037,Bengaluru,South,Fashion,Backpack,5,1200,0.1,6000,600.0,5400.0,5400.0,Debit Card,Online
+ORD0475,2025-03-12,2025,3,March,2025-03,CUST056,Coimbatore,South,Fashion,Watch,3,2200,0.15,6600,990.0,5610.0,5610.0,Credit Card,Online
+ORD0289,2025-03-13,2025,3,March,2025-03,CUST026,Mumbai,West,Electronics,Monitor,3,8500,0.0,25500,0.0,25500.0,25500.0,Cash,Online
+ORD0111,2025-03-15,2025,3,March,2025-03,CUST087,Coimbatore,South,Home & Kitchen,Mixer Grinder,4,3200,0.05,12800,640.0,12160.0,12160.0,Cash,Online
+ORD0135,2025-03-17,2025,3,March,2025-03,CUST139,Pune,West,Electronics,Headphones,2,1800,0.0,3600,0.0,3600.0,3600.0,Debit Card,Online
+ORD0267,2025-03-18,2025,3,March,2025-03,CUST062,Hyderabad,South,Books,Technical Book,5,750,0.1,3750,375.0,3375.0,3375.0,Credit Card,Store
+ORD0359,2025-03-18,2025,3,March,2025-03,CUST083,Bengaluru,South,Electronics,Monitor,4,8500,0.0,34000,0.0,34000.0,34000.0,Credit Card,Store
+ORD0430,2025-03-18,2025,3,March,2025-03,CUST082,Pune,West,Home & Kitchen,Mixer Grinder,5,3200,0.1,16000,1600.0,14400.0,14400.0,Credit Card,Online
+ORD0164,2025-03-19,2025,3,March,2025-03,CUST071,Coimbatore,South,Electronics,USB Drive,4,550,0.05,2200,110.0,2090.0,2090.0,UPI,Store
+ORD0251,2025-03-20,2025,3,March,2025-03,CUST138,Coimbatore,South,Fashion,Backpack,5,1200,0.1,6000,600.0,5400.0,5400.0,Credit Card,Online
+ORD0276,2025-03-20,2025,3,March,2025-03,CUST063,Bengaluru,South,Fashion,Jeans,4,1600,0.15,6400,960.0,5440.0,5440.0,Cash,Store
+ORD0152,2025-03-21,2025,3,March,2025-03,CUST109,Bengaluru,South,Electronics,Wireless Mouse,3,650,0.1,1950,195.0,1755.0,1755.0,Cash,Store
+ORD0016,2025-03-22,2025,3,March,2025-03,CUST130,Coimbatore,South,Electronics,Headphones,5,1800,0.0,9000,0.0,9000.0,9000.0,UPI,Store
+ORD0390,2025-03-22,2025,3,March,2025-03,CUST144,Mumbai,West,Books,Exam Guide,3,500,0.0,1500,0.0,1500.0,1500.0,Debit Card,Online
+ORD0498,2025-03-22,2025,3,March,2025-03,CUST076,Pune,West,Home & Kitchen,Electric Kettle,4,1400,0.15,5600,840.0,4760.0,4760.0,Credit Card,Store
+ORD0219,2025-03-23,2025,3,March,2025-03,CUST132,Hyderabad,South,Fashion,Jeans,2,1600,0.1,3200,320.0,2880.0,2880.0,Cash,Store
+ORD0458,2025-03-23,2025,3,March,2025-03,CUST113,Chennai,South,Books,Biography,4,420,0.15,1680,252.0,1428.0,1428.0,Credit Card,Store
+ORD0099,2025-03-24,2025,3,March,2025-03,CUST141,Hyderabad,South,Books,Exam Guide,3,500,0.1,1500,150.0,1350.0,1350.0,UPI,Store
+ORD0176,2025-03-25,2025,3,March,2025-03,CUST094,Bengaluru,South,Home & Kitchen,Water Bottle,1,450,0.1,450,45.0,405.0,405.0,Credit Card,Store
+ORD0124,2025-03-26,2025,3,March,2025-03,CUST120,Hyderabad,South,Books,Notebook Set,3,250,0.0,750,0.0,750.0,750.0,UPI,Online
+ORD0328,2025-03-26,2025,3,March,2025-03,CUST146,Pune,West,Home & Kitchen,Electric Kettle,2,1400,0.0,2800,0.0,2800.0,2800.0,Debit Card,Store
+ORD0114,2025-03-27,2025,3,March,2025-03,CUST015,Mumbai,West,Fashion,T-Shirt,1,650,0.05,650,32.5,617.5,617.5,Debit Card,Store
+ORD0297,2025-03-28,2025,3,March,2025-03,CUST038,Bengaluru,South,Fashion,Sneakers,3,2800,0.1,8400,840.0,7560.0,7560.0,UPI,Online
+ORD0234,2025-03-30,2025,3,March,2025-03,CUST157,Coimbatore,South,Fashion,Watch,3,2200,0.05,6600,330.0,6270.0,6270.0,Cash,Online
+ORD0116,2025-03-31,2025,3,March,2025-03,CUST150,Chennai,South,Books,Biography,2,420,0.1,840,84.0,756.0,756.0,Credit Card,Online
+ORD0137,2025-03-31,2025,3,March,2025-03,CUST030,Hyderabad,South,Electronics,Keyboard,4,1100,0.15,4400,660.0,3740.0,3740.0,UPI,Store
+ORD0246,2025-03-31,2025,3,March,2025-03,CUST023,Pune,West,Books,Exam Guide,5,500,0.05,2500,125.0,2375.0,2375.0,Cash,Online
+ORD0044,2025-04-01,2025,4,April,2025-04,CUST064,Coimbatore,South,Electronics,Keyboard,3,1100,0.1,3300,330.0,2970.0,2970.0,Debit Card,Online
+ORD0163,2025-04-01,2025,4,April,2025-04,CUST115,Mumbai,West,Books,Exam Guide,5,500,0.15,2500,375.0,2125.0,2125.0,Debit Card,Store
+ORD0388,2025-04-01,2025,4,April,2025-04,CUST037,Hyderabad,South,Electronics,Wireless Mouse,2,650,0.15,1300,195.0,1105.0,1105.0,UPI,Store
+ORD0423,2025-04-01,2025,4,April,2025-04,CUST024,Coimbatore,South,Fashion,Sneakers,2,2800,0.05,5600,280.0,5320.0,5320.0,Debit Card,Online
+ORD0174,2025-04-03,2025,4,April,2025-04,CUST036,Bengaluru,South,Fashion,Backpack,2,1200,0.0,2400,0.0,2400.0,2400.0,Credit Card,Online
+ORD0382,2025-04-03,2025,4,April,2025-04,CUST072,Chennai,South,Fashion,Watch,2,2200,0.0,4400,0.0,4400.0,4400.0,UPI,Store
+ORD0247,2025-04-05,2025,4,April,2025-04,CUST067,Bengaluru,South,Books,Notebook Set,2,250,0.0,500,0.0,500.0,500.0,Cash,Online
+ORD0278,2025-04-05,2025,4,April,2025-04,CUST013,Pune,West,Electronics,Monitor,1,8500,0.0,8500,0.0,8500.0,8500.0,UPI,Store
+ORD0084,2025-04-10,2025,4,April,2025-04,CUST004,Hyderabad,South,Home & Kitchen,Cookware Set,2,2600,0.05,5200,260.0,4940.0,4940.0,Credit Card,Store
+ORD0436,2025-04-10,2025,4,April,2025-04,CUST106,Pune,West,Electronics,USB Drive,5,550,0.05,2750,137.5,2612.5,2612.5,UPI,Online
+ORD0483,2025-04-10,2025,4,April,2025-04,CUST045,Hyderabad,South,Books,Technical Book,1,750,0.0,750,0.0,750.0,750.0,UPI,Store
+ORD0119,2025-04-12,2025,4,April,2025-04,CUST147,Coimbatore,South,Books,Fiction Book,2,350,0.1,700,70.0,630.0,630.0,Debit Card,Store
+ORD0376,2025-04-12,2025,4,April,2025-04,CUST032,Mumbai,West,Books,Technical Book,1,750,0.05,750,37.5,712.5,712.5,UPI,Store
+ORD0179,2025-04-13,2025,4,April,2025-04,CUST096,Pune,West,Home & Kitchen,Cookware Set,1,2600,0.1,2600,260.0,2340.0,2340.0,UPI,Online
+ORD0203,2025-04-13,2025,4,April,2025-04,CUST114,Chennai,South,Home & Kitchen,Mixer Grinder,4,3200,0.0,12800,0.0,12800.0,12800.0,UPI,Store
+ORD0421,2025-04-13,2025,4,April,2025-04,CUST093,Chennai,South,Home & Kitchen,Mixer Grinder,4,3200,0.0,12800,0.0,12800.0,12800.0,Credit Card,Store
+ORD0034,2025-04-15,2025,4,April,2025-04,CUST034,Mumbai,West,Fashion,Jeans,3,1600,0.1,4800,480.0,4320.0,4320.0,Debit Card,Store
+ORD0102,2025-04-15,2025,4,April,2025-04,CUST032,Hyderabad,South,Home & Kitchen,Cookware Set,4,2600,0.1,10400,1040.0,9360.0,9360.0,UPI,Online
+ORD0365,2025-04-16,2025,4,April,2025-04,CUST037,Pune,West,Home & Kitchen,Water Bottle,4,450,0.0,1800,0.0,1800.0,1800.0,Debit Card,Online
+ORD0439,2025-04-18,2025,4,April,2025-04,CUST158,Bengaluru,South,Home & Kitchen,Water Bottle,1,450,0.0,450,0.0,450.0,450.0,Cash,Store
+ORD0011,2025-04-19,2025,4,April,2025-04,CUST068,Mumbai,West,Books,Exam Guide,4,500,0.0,2000,0.0,2000.0,2000.0,Credit Card,Online
+ORD0078,2025-04-19,2025,4,April,2025-04,CUST071,Hyderabad,South,Fashion,Sneakers,3,2800,0.15,8400,1260.0,7140.0,7140.0,UPI,Online
+ORD0029,2025-04-20,2025,4,April,2025-04,CUST100,Coimbatore,South,Electronics,Keyboard,4,1100,0.0,4400,0.0,4400.0,4400.0,Debit Card,Store
+ORD0488,2025-04-20,2025,4,April,2025-04,CUST056,Mumbai,West,Fashion,Sneakers,3,2800,0.05,8400,420.0,7980.0,7980.0,Cash,Online
+ORD0083,2025-04-21,2025,4,April,2025-04,CUST153,Mumbai,West,Books,Notebook Set,5,250,0.15,1250,187.5,1062.5,1062.5,Debit Card,Online
+ORD0427,2025-04-22,2025,4,April,2025-04,CUST150,Coimbatore,South,Fashion,Watch,5,2200,0.1,11000,1100.0,9900.0,9900.0,UPI,Online
+ORD0065,2025-04-23,2025,4,April,2025-04,CUST087,Hyderabad,South,Books,Exam Guide,1,500,0.1,500,50.0,450.0,450.0,Cash,Online
+ORD0384,2025-04-23,2025,4,April,2025-04,CUST061,Pune,West,Books,Notebook Set,2,250,0.0,500,0.0,500.0,500.0,Debit Card,Store
+ORD0181,2025-04-24,2025,4,April,2025-04,CUST102,Coimbatore,South,Fashion,T-Shirt,4,650,0.0,2600,0.0,2600.0,2600.0,Debit Card,Online
+ORD0260,2025-04-25,2025,4,April,2025-04,CUST109,Chennai,South,Electronics,Headphones,4,1800,0.15,7200,1080.0,6120.0,6120.0,Cash,Online
+ORD0361,2025-04-25,2025,4,April,2025-04,CUST073,Pune,West,Electronics,USB Drive,1,550,0.1,550,55.0,495.0,495.0,Debit Card,Store
+ORD0125,2025-04-26,2025,4,April,2025-04,CUST102,Mumbai,West,Books,Biography,3,420,0.0,1260,0.0,1260.0,1260.0,UPI,Store
+ORD0062,2025-04-29,2025,4,April,2025-04,CUST105,Coimbatore,South,Home & Kitchen,Electric Kettle,1,1400,0.1,1400,140.0,1260.0,1260.0,Debit Card,Store
+ORD0162,2025-05-01,2025,5,May,2025-05,CUST155,Chennai,South,Home & Kitchen,Cookware Set,2,2600,0.0,5200,0.0,5200.0,5200.0,Credit Card,Online
+ORD0305,2025-05-04,2025,5,May,2025-05,CUST115,Hyderabad,South,Home & Kitchen,Water Bottle,4,450,0.0,1800,0.0,1800.0,1800.0,Cash,Store
+ORD0269,2025-05-05,2025,5,May,2025-05,CUST095,Hyderabad,South,Home & Kitchen,Cookware Set,1,2600,0.1,2600,260.0,2340.0,2340.0,UPI,Online
+ORD0272,2025-05-05,2025,5,May,2025-05,CUST083,Mumbai,West,Home & Kitchen,Water Bottle,2,450,0.15,900,135.0,765.0,765.0,Debit Card,Store
+ORD0060,2025-05-07,2025,5,May,2025-05,CUST071,Mumbai,West,Fashion,Watch,4,2200,0.0,8800,0.0,8800.0,8800.0,Cash,Online
+ORD0218,2025-05-07,2025,5,May,2025-05,CUST158,Bengaluru,South,Electronics,Wireless Mouse,3,650,0.1,1950,195.0,1755.0,1755.0,Cash,Online
+ORD0235,2025-05-07,2025,5,May,2025-05,CUST054,Hyderabad,South,Fashion,Jeans,3,1600,0.05,4800,240.0,4560.0,4560.0,Cash,Store
+ORD0261,2025-05-07,2025,5,May,2025-05,CUST029,Coimbatore,South,Fashion,Jeans,3,1600,0.0,4800,0.0,4800.0,4800.0,UPI,Store
+ORD0292,2025-05-07,2025,5,May,2025-05,CUST098,Mumbai,West,Electronics,Wireless Mouse,3,650,0.0,1950,0.0,1950.0,1950.0,Credit Card,Store
+ORD0331,2025-05-07,2025,5,May,2025-05,CUST069,Mumbai,West,Books,Exam Guide,2,500,0.15,1000,150.0,850.0,850.0,Cash,Store
+ORD0088,2025-05-08,2025,5,May,2025-05,CUST058,Chennai,South,Books,Biography,5,420,0.15,2100,315.0,1785.0,1785.0,Cash,Store
+ORD0307,2025-05-08,2025,5,May,2025-05,CUST145,Mumbai,West,Fashion,Jeans,5,1600,0.0,8000,0.0,8000.0,8000.0,Cash,Store
+ORD0171,2025-05-10,2025,5,May,2025-05,CUST037,Mumbai,West,Home & Kitchen,Cookware Set,1,2600,0.15,2600,390.0,2210.0,2210.0,Debit Card,Store
+ORD0426,2025-05-10,2025,5,May,2025-05,CUST090,Pune,West,Fashion,Sneakers,4,2800,0.1,11200,1120.0,10080.0,10080.0,Cash,Store
+ORD0277,2025-05-12,2025,5,May,2025-05,CUST044,Coimbatore,South,Books,Exam Guide,2,500,0.05,1000,50.0,950.0,950.0,Credit Card,Store
+ORD0373,2025-05-14,2025,5,May,2025-05,CUST141,Bengaluru,South,Electronics,USB Drive,4,550,0.15,2200,330.0,1870.0,1870.0,Credit Card,Online
+ORD0327,2025-05-15,2025,5,May,2025-05,CUST054,Hyderabad,South,Electronics,USB Drive,1,550,0.0,550,0.0,550.0,550.0,Debit Card,Store
+ORD0356,2025-05-15,2025,5,May,2025-05,CUST093,Mumbai,West,Electronics,USB Drive,4,550,0.15,2200,330.0,1870.0,1870.0,UPI,Store
+ORD0020,2025-05-16,2025,5,May,2025-05,CUST080,Pune,West,Books,Technical Book,5,750,0.0,3750,0.0,3750.0,3750.0,Cash,Store
+ORD0283,2025-05-17,2025,5,May,2025-05,CUST145,Coimbatore,South,Electronics,Headphones,4,1800,0.1,7200,720.0,6480.0,6480.0,Credit Card,Online
+ORD0479,2025-05-17,2025,5,May,2025-05,CUST076,Bengaluru,South,Fashion,Sneakers,2,2800,0.0,5600,0.0,5600.0,5600.0,Credit Card,Online
+ORD0141,2025-05-21,2025,5,May,2025-05,CUST076,Pune,West,Fashion,Backpack,5,1200,0.15,6000,900.0,5100.0,5100.0,Cash,Store
+ORD0040,2025-05-22,2025,5,May,2025-05,CUST042,Chennai,South,Electronics,Headphones,2,1800,0.05,3600,180.0,3420.0,3420.0,Cash,Store
+ORD0047,2025-05-23,2025,5,May,2025-05,CUST030,Hyderabad,South,Books,Biography,3,420,0.0,1260,0.0,1260.0,1260.0,Debit Card,Online
+ORD0131,2025-05-24,2025,5,May,2025-05,CUST061,Chennai,South,Fashion,Jeans,4,1600,0.1,6400,640.0,5760.0,5760.0,Debit Card,Online
+ORD0180,2025-05-26,2025,5,May,2025-05,CUST038,Chennai,South,Home & Kitchen,Cookware Set,4,2600,0.15,10400,1560.0,8840.0,8840.0,Cash,Online
+ORD0244,2025-05-26,2025,5,May,2025-05,CUST070,Coimbatore,South,Books,Technical Book,5,750,0.1,3750,375.0,3375.0,3375.0,Credit Card,Online
+ORD0030,2025-05-27,2025,5,May,2025-05,CUST056,Coimbatore,South,Books,Technical Book,2,750,0.05,1500,75.0,1425.0,1425.0,UPI,Online
+ORD0061,2025-05-27,2025,5,May,2025-05,CUST021,Bengaluru,South,Fashion,Sneakers,3,2800,0.15,8400,1260.0,7140.0,7140.0,Credit Card,Online
+ORD0121,2025-05-27,2025,5,May,2025-05,CUST065,Bengaluru,South,Fashion,Jeans,2,1600,0.15,3200,480.0,2720.0,2720.0,Credit Card,Online
+ORD0185,2025-05-28,2025,5,May,2025-05,CUST108,Bengaluru,South,Fashion,T-Shirt,1,650,0.0,650,0.0,650.0,650.0,Cash,Online
+ORD0324,2025-05-30,2025,5,May,2025-05,CUST044,Chennai,South,Fashion,Jeans,5,1600,0.05,8000,400.0,7600.0,7600.0,Cash,Store
+ORD0368,2025-05-30,2025,5,May,2025-05,CUST116,Hyderabad,South,Fashion,Backpack,3,1200,0.05,3600,180.0,3420.0,3420.0,Debit Card,Online
+ORD0403,2025-05-31,2025,5,May,2025-05,CUST053,Mumbai,West,Books,Technical Book,1,750,0.0,750,0.0,750.0,750.0,Credit Card,Store
+ORD0175,2025-06-01,2025,6,June,2025-06,CUST153,Chennai,South,Electronics,Headphones,5,1800,0.0,9000,0.0,9000.0,9000.0,Cash,Online
+ORD0346,2025-06-01,2025,6,June,2025-06,CUST029,Mumbai,West,Electronics,Keyboard,4,1100,0.1,4400,440.0,3960.0,3960.0,Credit Card,Store
+ORD0443,2025-06-02,2025,6,June,2025-06,CUST087,Hyderabad,South,Books,Biography,5,420,0.15,2100,315.0,1785.0,1785.0,Cash,Online
+ORD0051,2025-06-03,2025,6,June,2025-06,CUST076,Pune,West,Fashion,Backpack,3,1200,0.1,3600,360.0,3240.0,3240.0,Credit Card,Online
+ORD0284,2025-06-03,2025,6,June,2025-06,CUST098,Mumbai,West,Electronics,Wireless Mouse,1,650,0.1,650,65.0,585.0,585.0,Cash,Store
+ORD0265,2025-06-04,2025,6,June,2025-06,CUST016,Bengaluru,South,Home & Kitchen,Water Bottle,3,450,0.05,1350,67.5,1282.5,1282.5,Credit Card,Store
+ORD0053,2025-06-05,2025,6,June,2025-06,CUST083,Hyderabad,South,Home & Kitchen,Water Bottle,5,450,0.15,2250,337.5,1912.5,1912.5,Cash,Store
+ORD0046,2025-06-06,2025,6,June,2025-06,CUST085,Bengaluru,South,Home & Kitchen,Mixer Grinder,2,3200,0.1,6400,640.0,5760.0,5760.0,Debit Card,Online
+ORD0082,2025-06-06,2025,6,June,2025-06,CUST031,Hyderabad,South,Home & Kitchen,Mixer Grinder,2,3200,0.05,6400,320.0,6080.0,6080.0,Credit Card,Online
+ORD0094,2025-06-07,2025,6,June,2025-06,CUST078,Pune,West,Fashion,Backpack,1,1200,0.1,1200,120.0,1080.0,1080.0,Cash,Store
+ORD0220,2025-06-07,2025,6,June,2025-06,CUST118,Coimbatore,South,Electronics,Wireless Mouse,4,650,0.15,2600,390.0,2210.0,2210.0,Credit Card,Online
+ORD0207,2025-06-08,2025,6,June,2025-06,CUST148,Coimbatore,South,Books,Biography,4,420,0.1,1680,168.0,1512.0,1512.0,UPI,Online
+ORD0420,2025-06-09,2025,6,June,2025-06,CUST008,Mumbai,West,Books,Technical Book,5,750,0.15,3750,562.5,3187.5,3187.5,Credit Card,Online
+ORD0031,2025-06-10,2025,6,June,2025-06,CUST136,Chennai,South,Electronics,Monitor,4,8500,0.15,34000,5100.0,28900.0,28900.0,Credit Card,Online
+ORD0201,2025-06-10,2025,6,June,2025-06,CUST048,Mumbai,West,Fashion,Jeans,1,1600,0.0,1600,0.0,1600.0,1600.0,Cash,Store
+ORD0035,2025-06-11,2025,6,June,2025-06,CUST026,Chennai,South,Electronics,USB Drive,5,550,0.15,2750,412.5,2337.5,2337.5,UPI,Online
+ORD0208,2025-06-12,2025,6,June,2025-06,CUST089,Mumbai,West,Electronics,USB Drive,4,550,0.15,2200,330.0,1870.0,1870.0,Credit Card,Online
+ORD0293,2025-06-12,2025,6,June,2025-06,CUST114,Hyderabad,South,Electronics,Wireless Mouse,1,650,0.05,650,32.5,617.5,617.5,Debit Card,Store
+ORD0360,2025-06-13,2025,6,June,2025-06,CUST129,Hyderabad,South,Electronics,Monitor,3,8500,0.0,25500,0.0,25500.0,25500.0,UPI,Online
+ORD0394,2025-06-13,2025,6,June,2025-06,CUST068,Bengaluru,South,Electronics,Headphones,4,1800,0.0,7200,0.0,7200.0,7200.0,Credit Card,Online
+ORD0398,2025-06-13,2025,6,June,2025-06,CUST097,Hyderabad,South,Electronics,Wireless Mouse,3,650,0.0,1950,0.0,1950.0,1950.0,Credit Card,Online
+ORD0301,2025-06-14,2025,6,June,2025-06,CUST102,Pune,West,Home & Kitchen,Water Bottle,3,450,0.0,1350,0.0,1350.0,1350.0,Debit Card,Store
+ORD0210,2025-06-15,2025,6,June,2025-06,CUST021,Mumbai,West,Home & Kitchen,Cookware Set,5,2600,0.05,13000,650.0,12350.0,12350.0,Debit Card,Online
+ORD0068,2025-06-17,2025,6,June,2025-06,CUST021,Hyderabad,South,Books,Notebook Set,4,250,0.05,1000,50.0,950.0,950.0,Cash,Online
+ORD0333,2025-06-17,2025,6,June,2025-06,CUST017,Pune,West,Electronics,Wireless Mouse,4,650,0.05,2600,130.0,2470.0,2470.0,Cash,Online
+ORD0372,2025-06-17,2025,6,June,2025-06,CUST132,Bengaluru,South,Electronics,Keyboard,3,1100,0.1,3300,330.0,2970.0,2970.0,UPI,Store
+ORD0112,2025-06-18,2025,6,June,2025-06,CUST010,Mumbai,West,Books,Notebook Set,4,250,0.15,1000,150.0,850.0,850.0,UPI,Online
+ORD0245,2025-06-19,2025,6,June,2025-06,CUST087,Bengaluru,South,Books,Notebook Set,2,250,0.0,500,0.0,500.0,500.0,Debit Card,Online
+ORD0452,2025-06-19,2025,6,June,2025-06,CUST147,Bengaluru,South,Electronics,Wireless Mouse,1,650,0.0,650,0.0,650.0,650.0,Cash,Online
+ORD0485,2025-06-19,2025,6,June,2025-06,CUST153,Coimbatore,South,Home & Kitchen,Mixer Grinder,2,3200,0.05,6400,320.0,6080.0,6080.0,UPI,Store
+ORD0300,2025-06-20,2025,6,June,2025-06,CUST111,Pune,West,Books,Notebook Set,4,250,0.05,1000,50.0,950.0,950.0,Credit Card,Store
+ORD0417,2025-06-22,2025,6,June,2025-06,CUST059,Hyderabad,South,Fashion,Sneakers,4,2800,0.0,11200,0.0,11200.0,11200.0,Credit Card,Store
+ORD0143,2025-06-23,2025,6,June,2025-06,CUST110,Coimbatore,South,Books,Exam Guide,1,500,0.05,500,25.0,475.0,475.0,Debit Card,Store
+ORD0194,2025-06-23,2025,6,June,2025-06,CUST069,Bengaluru,South,Books,Exam Guide,3,500,0.15,1500,225.0,1275.0,1275.0,UPI,Store
+ORD0216,2025-06-24,2025,6,June,2025-06,CUST103,Pune,West,Home & Kitchen,Cookware Set,3,2600,0.05,7800,390.0,7410.0,7410.0,Credit Card,Store
+ORD0467,2025-06-24,2025,6,June,2025-06,CUST144,Hyderabad,South,Electronics,Keyboard,4,1100,0.05,4400,220.0,4180.0,4180.0,Cash,Store
+ORD0039,2025-06-25,2025,6,June,2025-06,CUST014,Bengaluru,South,Fashion,Watch,4,2200,0.05,8800,440.0,8360.0,8360.0,UPI,Store
+ORD0335,2025-06-25,2025,6,June,2025-06,CUST005,Mumbai,West,Electronics,Wireless Mouse,1,650,0.1,650,65.0,585.0,585.0,UPI,Online
+ORD0432,2025-06-25,2025,6,June,2025-06,CUST130,Mumbai,West,Home & Kitchen,Desk Lamp,4,900,0.05,3600,180.0,3420.0,3420.0,Debit Card,Online
+ORD0444,2025-06-25,2025,6,June,2025-06,CUST005,Coimbatore,South,Fashion,Jeans,2,1600,0.1,3200,320.0,2880.0,2880.0,Credit Card,Online
+ORD0237,2025-06-26,2025,6,June,2025-06,CUST089,Bengaluru,South,Fashion,T-Shirt,3,650,0.0,1950,0.0,1950.0,1950.0,Cash,Store
+ORD0257,2025-06-26,2025,6,June,2025-06,CUST121,Mumbai,West,Electronics,Monitor,1,8500,0.0,8500,0.0,8500.0,8500.0,UPI,Store
+ORD0344,2025-06-29,2025,6,June,2025-06,CUST022,Coimbatore,South,Fashion,Jeans,2,1600,0.05,3200,160.0,3040.0,3040.0,Credit Card,Store
+ORD0318,2025-06-30,2025,6,June,2025-06,CUST022,Coimbatore,South,Home & Kitchen,Cookware Set,5,2600,0.15,13000,1950.0,11050.0,11050.0,Credit Card,Store
+ORD0477,2025-06-30,2025,6,June,2025-06,CUST137,Pune,West,Books,Biography,5,420,0.1,2100,210.0,1890.0,1890.0,Debit Card,Store
+ORD0146,2025-07-01,2025,7,July,2025-07,CUST080,Mumbai,West,Books,Fiction Book,3,350,0.15,1050,157.5,892.5,892.5,Debit Card,Online
+ORD0378,2025-07-01,2025,7,July,2025-07,CUST039,Bengaluru,South,Home & Kitchen,Cookware Set,3,2600,0.1,7800,780.0,7020.0,7020.0,UPI,Online
+ORD0291,2025-07-02,2025,7,July,2025-07,CUST098,Pune,West,Books,Exam Guide,2,500,0.15,1000,150.0,850.0,850.0,UPI,Store
+ORD0381,2025-07-03,2025,7,July,2025-07,CUST083,Coimbatore,South,Books,Notebook Set,5,250,0.15,1250,187.5,1062.5,1062.5,Cash,Store
+ORD0459,2025-07-03,2025,7,July,2025-07,CUST029,Pune,West,Electronics,Keyboard,4,1100,0.1,4400,440.0,3960.0,3960.0,Cash,Store
+ORD0480,2025-07-03,2025,7,July,2025-07,CUST144,Coimbatore,South,Electronics,Monitor,5,8500,0.0,42500,0.0,42500.0,42500.0,Cash,Online
+ORD0206,2025-07-04,2025,7,July,2025-07,CUST157,Pune,West,Fashion,Backpack,5,1200,0.0,6000,0.0,6000.0,6000.0,UPI,Online
+ORD0205,2025-07-05,2025,7,July,2025-07,CUST061,Pune,West,Home & Kitchen,Mixer Grinder,2,3200,0.0,6400,0.0,6400.0,6400.0,Cash,Online
+ORD0198,2025-07-06,2025,7,July,2025-07,CUST113,Pune,West,Home & Kitchen,Mixer Grinder,2,3200,0.15,6400,960.0,5440.0,5440.0,UPI,Online
+ORD0303,2025-07-06,2025,7,July,2025-07,CUST141,Chennai,South,Home & Kitchen,Desk Lamp,5,900,0.0,4500,0.0,4500.0,4500.0,UPI,Store
+ORD0178,2025-07-08,2025,7,July,2025-07,CUST129,Mumbai,West,Books,Exam Guide,3,500,0.1,1500,150.0,1350.0,1350.0,Cash,Online
+ORD0422,2025-07-08,2025,7,July,2025-07,CUST096,Coimbatore,South,Books,Fiction Book,1,350,0.0,350,0.0,350.0,350.0,Cash,Store
+ORD0200,2025-07-09,2025,7,July,2025-07,CUST136,Hyderabad,South,Books,Fiction Book,5,350,0.0,1750,0.0,1750.0,1750.0,Debit Card,Store
+ORD0145,2025-07-10,2025,7,July,2025-07,CUST085,Bengaluru,South,Electronics,Monitor,5,8500,0.15,42500,6375.0,36125.0,36125.0,UPI,Store
+ORD0355,2025-07-10,2025,7,July,2025-07,CUST110,Bengaluru,South,Fashion,T-Shirt,1,650,0.05,650,32.5,617.5,617.5,Debit Card,Online
+ORD0435,2025-07-10,2025,7,July,2025-07,CUST014,Hyderabad,South,Fashion,Backpack,1,1200,0.1,1200,120.0,1080.0,1080.0,UPI,Store
+ORD0115,2025-07-11,2025,7,July,2025-07,CUST145,Coimbatore,South,Home & Kitchen,Electric Kettle,5,1400,0.1,7000,700.0,6300.0,6300.0,Credit Card,Online
+ORD0144,2025-07-11,2025,7,July,2025-07,CUST024,Bengaluru,South,Books,Fiction Book,1,350,0.0,350,0.0,350.0,350.0,Cash,Online
+ORD0309,2025-07-11,2025,7,July,2025-07,CUST089,Coimbatore,South,Books,Biography,5,420,0.0,2100,0.0,2100.0,2100.0,UPI,Store
+ORD0446,2025-07-12,2025,7,July,2025-07,CUST153,Mumbai,West,Fashion,Watch,5,2200,0.0,11000,0.0,11000.0,11000.0,UPI,Online
+ORD0006,2025-07-13,2025,7,July,2025-07,CUST050,Chennai,South,Fashion,Watch,3,2200,0.15,6600,990.0,5610.0,5610.0,UPI,Online
+ORD0005,2025-07-14,2025,7,July,2025-07,CUST012,Chennai,South,Fashion,Sneakers,5,2800,0.05,14000,700.0,13300.0,13300.0,Cash,Online
+ORD0380,2025-07-16,2025,7,July,2025-07,CUST140,Bengaluru,South,Books,Technical Book,5,750,0.0,3750,0.0,3750.0,3750.0,UPI,Store
+ORD0182,2025-07-17,2025,7,July,2025-07,CUST026,Chennai,South,Fashion,Jeans,1,1600,0.05,1600,80.0,1520.0,1520.0,Debit Card,Online
+ORD0224,2025-07-17,2025,7,July,2025-07,CUST157,Pune,West,Books,Biography,3,420,0.15,1260,189.0,1071.0,1071.0,UPI,Online
+ORD0424,2025-07-17,2025,7,July,2025-07,CUST058,Chennai,South,Home & Kitchen,Desk Lamp,2,900,0.0,1800,0.0,1800.0,1800.0,Credit Card,Store
+ORD0408,2025-07-18,2025,7,July,2025-07,CUST061,Pune,West,Books,Biography,4,420,0.15,1680,252.0,1428.0,1428.0,Cash,Store
+ORD0412,2025-07-18,2025,7,July,2025-07,CUST134,Pune,West,Books,Biography,3,420,0.05,1260,63.0,1197.0,1197.0,Cash,Online
+ORD0243,2025-07-23,2025,7,July,2025-07,CUST077,Coimbatore,South,Home & Kitchen,Cookware Set,1,2600,0.0,2600,0.0,2600.0,2600.0,UPI,Store
+ORD0057,2025-07-24,2025,7,July,2025-07,CUST057,Bengaluru,South,Home & Kitchen,Mixer Grinder,1,3200,0.1,3200,320.0,2880.0,2880.0,Credit Card,Store
+ORD0087,2025-07-25,2025,7,July,2025-07,CUST039,Coimbatore,South,Electronics,Monitor,1,8500,0.0,8500,0.0,8500.0,8500.0,Debit Card,Online
+ORD0375,2025-07-25,2025,7,July,2025-07,CUST020,Hyderabad,South,Electronics,Monitor,5,8500,0.05,42500,2125.0,40375.0,40375.0,UPI,Online
+ORD0026,2025-07-26,2025,7,July,2025-07,CUST049,Mumbai,West,Fashion,T-Shirt,2,650,0.0,1300,0.0,1300.0,1300.0,Cash,Online
+ORD0440,2025-07-26,2025,7,July,2025-07,CUST137,Coimbatore,South,Books,Exam Guide,1,500,0.0,500,0.0,500.0,500.0,Credit Card,Store
+ORD0464,2025-07-26,2025,7,July,2025-07,CUST115,Bengaluru,South,Electronics,USB Drive,4,550,0.15,2200,330.0,1870.0,1870.0,UPI,Store
+ORD0419,2025-07-28,2025,7,July,2025-07,CUST132,Mumbai,West,Books,Biography,3,420,0.0,1260,0.0,1260.0,1260.0,Credit Card,Online
+ORD0495,2025-07-28,2025,7,July,2025-07,CUST005,Coimbatore,South,Books,Exam Guide,4,500,0.05,2000,100.0,1900.0,1900.0,Cash,Online
+ORD0258,2025-07-29,2025,7,July,2025-07,CUST115,Bengaluru,South,Home & Kitchen,Water Bottle,3,450,0.1,1350,135.0,1215.0,1215.0,Cash,Store
+ORD0109,2025-07-30,2025,7,July,2025-07,CUST039,Chennai,South,Fashion,Backpack,4,1200,0.1,4800,480.0,4320.0,4320.0,Cash,Online
+ORD0343,2025-07-30,2025,7,July,2025-07,CUST036,Pune,West,Books,Technical Book,1,750,0.0,750,0.0,750.0,750.0,UPI,Store
+ORD0101,2025-07-31,2025,7,July,2025-07,CUST128,Chennai,South,Home & Kitchen,Desk Lamp,3,900,0.15,2700,405.0,2295.0,2295.0,Cash,Online
+ORD0063,2025-08-01,2025,8,August,2025-08,CUST006,Chennai,South,Home & Kitchen,Water Bottle,4,450,0.15,1800,270.0,1530.0,1530.0,Cash,Store
+ORD0153,2025-08-01,2025,8,August,2025-08,CUST111,Hyderabad,South,Home & Kitchen,Desk Lamp,1,900,0.05,900,45.0,855.0,855.0,UPI,Store
+ORD0151,2025-08-03,2025,8,August,2025-08,CUST084,Coimbatore,South,Fashion,Jeans,3,1600,0.05,4800,240.0,4560.0,4560.0,UPI,Online
+ORD0232,2025-08-03,2025,8,August,2025-08,CUST157,Bengaluru,South,Books,Technical Book,4,750,0.15,3000,450.0,2550.0,2550.0,Cash,Online
+ORD0396,2025-08-03,2025,8,August,2025-08,CUST140,Bengaluru,South,Books,Exam Guide,4,500,0.05,2000,100.0,1900.0,1900.0,Cash,Online
+ORD0052,2025-08-04,2025,8,August,2025-08,CUST078,Mumbai,West,Books,Technical Book,5,750,0.15,3750,562.5,3187.5,3187.5,Cash,Online
+ORD0027,2025-08-05,2025,8,August,2025-08,CUST114,Bengaluru,South,Fashion,Backpack,2,1200,0.0,2400,0.0,2400.0,2400.0,UPI,Online
+ORD0340,2025-08-05,2025,8,August,2025-08,CUST099,Mumbai,West,Home & Kitchen,Water Bottle,1,450,0.0,450,0.0,450.0,450.0,UPI,Online
+ORD0350,2025-08-05,2025,8,August,2025-08,CUST158,Mumbai,West,Books,Fiction Book,5,350,0.15,1750,262.5,1487.5,1487.5,Credit Card,Store
+ORD0334,2025-08-08,2025,8,August,2025-08,CUST087,Bengaluru,South,Books,Notebook Set,3,250,0.05,750,37.5,712.5,712.5,Credit Card,Store
+ORD0042,2025-08-09,2025,8,August,2025-08,CUST092,Bengaluru,South,Electronics,Headphones,3,1800,0.0,5400,0.0,5400.0,5400.0,Credit Card,Online
+ORD0308,2025-08-09,2025,8,August,2025-08,CUST131,Chennai,South,Electronics,Wireless Mouse,3,650,0.0,1950,0.0,1950.0,1950.0,Credit Card,Store
+ORD0298,2025-08-11,2025,8,August,2025-08,CUST093,Hyderabad,South,Books,Notebook Set,4,250,0.0,1000,0.0,1000.0,1000.0,Debit Card,Online
+ORD0353,2025-08-11,2025,8,August,2025-08,CUST080,Chennai,South,Books,Biography,5,420,0.0,2100,0.0,2100.0,2100.0,Credit Card,Online
+ORD0021,2025-08-13,2025,8,August,2025-08,CUST017,Pune,West,Books,Fiction Book,2,350,0.0,700,0.0,700.0,700.0,Debit Card,Online
+ORD0037,2025-08-13,2025,8,August,2025-08,CUST142,Pune,West,Fashion,Watch,5,2200,0.0,11000,0.0,11000.0,11000.0,Debit Card,Online
+ORD0169,2025-08-13,2025,8,August,2025-08,CUST100,Pune,West,Home & Kitchen,Cookware Set,3,2600,0.05,7800,390.0,7410.0,7410.0,Cash,Store
+ORD0326,2025-08-14,2025,8,August,2025-08,CUST077,Pune,West,Home & Kitchen,Water Bottle,1,450,0.0,450,0.0,450.0,450.0,UPI,Store
+ORD0336,2025-08-14,2025,8,August,2025-08,CUST078,Coimbatore,South,Electronics,USB Drive,2,550,0.0,1100,0.0,1100.0,1100.0,Credit Card,Store
+ORD0054,2025-08-15,2025,8,August,2025-08,CUST022,Mumbai,West,Home & Kitchen,Desk Lamp,4,900,0.0,3600,0.0,3600.0,3600.0,Debit Card,Store
+ORD0089,2025-08-15,2025,8,August,2025-08,CUST016,Hyderabad,South,Books,Notebook Set,5,250,0.15,1250,187.5,1062.5,1062.5,UPI,Online
+ORD0418,2025-08-15,2025,8,August,2025-08,CUST049,Hyderabad,South,Fashion,Backpack,5,1200,0.0,6000,0.0,6000.0,6000.0,Cash,Online
+ORD0197,2025-08-17,2025,8,August,2025-08,CUST015,Chennai,South,Fashion,Watch,4,2200,0.05,8800,440.0,8360.0,8360.0,UPI,Store
+ORD0248,2025-08-17,2025,8,August,2025-08,CUST003,Hyderabad,South,Fashion,Sneakers,5,2800,0.15,14000,2100.0,11900.0,11900.0,Debit Card,Store
+ORD0465,2025-08-17,2025,8,August,2025-08,CUST104,Hyderabad,South,Electronics,USB Drive,1,550,0.0,550,0.0,550.0,550.0,Cash,Online
+ORD0138,2025-08-18,2025,8,August,2025-08,CUST158,Hyderabad,South,Electronics,USB Drive,5,550,0.0,2750,0.0,2750.0,2750.0,UPI,Store
+ORD0410,2025-08-18,2025,8,August,2025-08,CUST011,Bengaluru,South,Home & Kitchen,Electric Kettle,2,1400,0.0,2800,0.0,2800.0,2800.0,Cash,Online
+ORD0167,2025-08-19,2025,8,August,2025-08,CUST129,Pune,West,Home & Kitchen,Cookware Set,5,2600,0.1,13000,1300.0,11700.0,11700.0,Credit Card,Online
+ORD0168,2025-08-19,2025,8,August,2025-08,CUST011,Chennai,South,Fashion,T-Shirt,5,650,0.0,3250,0.0,3250.0,3250.0,Credit Card,Store
+ORD0332,2025-08-20,2025,8,August,2025-08,CUST095,Chennai,South,Electronics,USB Drive,5,550,0.05,2750,137.5,2612.5,2612.5,Cash,Store
+ORD0468,2025-08-20,2025,8,August,2025-08,CUST091,Chennai,South,Electronics,Keyboard,1,1100,0.05,1100,55.0,1045.0,1045.0,Debit Card,Store
+ORD0255,2025-08-21,2025,8,August,2025-08,CUST144,Bengaluru,South,Books,Exam Guide,5,500,0.0,2500,0.0,2500.0,2500.0,Cash,Store
+ORD0311,2025-08-22,2025,8,August,2025-08,CUST113,Bengaluru,South,Books,Notebook Set,4,250,0.0,1000,0.0,1000.0,1000.0,Cash,Store
+ORD0457,2025-08-22,2025,8,August,2025-08,CUST029,Hyderabad,South,Books,Exam Guide,4,500,0.0,2000,0.0,2000.0,2000.0,Credit Card,Online
+ORD0139,2025-08-23,2025,8,August,2025-08,CUST110,Mumbai,West,Electronics,Wireless Mouse,4,650,0.1,2600,260.0,2340.0,2340.0,UPI,Store
+ORD0191,2025-08-23,2025,8,August,2025-08,CUST011,Chennai,South,Fashion,Jeans,1,1600,0.0,1600,0.0,1600.0,1600.0,Debit Card,Store
+ORD0117,2025-08-25,2025,8,August,2025-08,CUST120,Mumbai,West,Fashion,Backpack,3,1200,0.0,3600,0.0,3600.0,3600.0,Debit Card,Online
+ORD0374,2025-08-25,2025,8,August,2025-08,CUST057,Chennai,South,Home & Kitchen,Mixer Grinder,1,3200,0.0,3200,0.0,3200.0,3200.0,Credit Card,Online
+ORD0077,2025-08-26,2025,8,August,2025-08,CUST084,Pune,West,Books,Notebook Set,1,250,0.1,250,25.0,225.0,225.0,Credit Card,Store
+ORD0363,2025-08-26,2025,8,August,2025-08,CUST039,Hyderabad,South,Books,Technical Book,5,750,0.0,3750,0.0,3750.0,3750.0,UPI,Store
+ORD0371,2025-08-26,2025,8,August,2025-08,CUST155,Hyderabad,South,Electronics,Wireless Mouse,2,650,0.05,1300,65.0,1235.0,1235.0,UPI,Online
+ORD0454,2025-08-26,2025,8,August,2025-08,CUST093,Chennai,South,Electronics,Keyboard,1,1100,0.05,1100,55.0,1045.0,1045.0,Debit Card,Store
+ORD0076,2025-08-27,2025,8,August,2025-08,CUST072,Coimbatore,South,Fashion,Sneakers,2,2800,0.0,5600,0.0,5600.0,5600.0,Cash,Online
+ORD0273,2025-08-27,2025,8,August,2025-08,CUST132,Pune,West,Fashion,Sneakers,3,2800,0.05,8400,420.0,7980.0,7980.0,Cash,Store
+ORD0370,2025-08-27,2025,8,August,2025-08,CUST054,Hyderabad,South,Books,Fiction Book,5,350,0.05,1750,87.5,1662.5,1662.5,Cash,Store
+ORD0066,2025-08-28,2025,8,August,2025-08,CUST007,Bengaluru,South,Electronics,USB Drive,5,550,0.15,2750,412.5,2337.5,2337.5,UPI,Store
+ORD0448,2025-08-31,2025,8,August,2025-08,CUST108,Mumbai,West,Home & Kitchen,Electric Kettle,1,1400,0.05,1400,70.0,1330.0,1330.0,UPI,Store
+ORD0056,2025-09-01,2025,9,September,2025-09,CUST050,Pune,West,Electronics,USB Drive,4,550,0.15,2200,330.0,1870.0,1870.0,Cash,Store
+ORD0086,2025-09-03,2025,9,September,2025-09,CUST123,Coimbatore,South,Fashion,Jeans,1,1600,0.05,1600,80.0,1520.0,1520.0,UPI,Online
+ORD0236,2025-09-03,2025,9,September,2025-09,CUST140,Hyderabad,South,Fashion,Sneakers,1,2800,0.15,2800,420.0,2380.0,2380.0,Cash,Store
+ORD0238,2025-09-03,2025,9,September,2025-09,CUST070,Bengaluru,South,Home & Kitchen,Desk Lamp,3,900,0.15,2700,405.0,2295.0,2295.0,Credit Card,Online
+ORD0271,2025-09-03,2025,9,September,2025-09,CUST049,Bengaluru,South,Fashion,Sneakers,1,2800,0.0,2800,0.0,2800.0,2800.0,UPI,Store
+ORD0397,2025-09-03,2025,9,September,2025-09,CUST009,Pune,West,Home & Kitchen,Electric Kettle,4,1400,0.0,5600,0.0,5600.0,5600.0,Debit Card,Online
+ORD0429,2025-09-04,2025,9,September,2025-09,CUST067,Chennai,South,Fashion,Sneakers,3,2800,0.05,8400,420.0,7980.0,7980.0,Debit Card,Online
+ORD0105,2025-09-05,2025,9,September,2025-09,CUST099,Coimbatore,South,Home & Kitchen,Water Bottle,5,450,0.0,2250,0.0,2250.0,2250.0,Credit Card,Online
+ORD0018,2025-09-08,2025,9,September,2025-09,CUST015,Chennai,South,Electronics,Headphones,3,1800,0.0,5400,0.0,5400.0,5400.0,Credit Card,Online
+ORD0321,2025-09-08,2025,9,September,2025-09,CUST159,Hyderabad,South,Home & Kitchen,Electric Kettle,3,1400,0.1,4200,420.0,3780.0,3780.0,UPI,Store
+ORD0486,2025-09-09,2025,9,September,2025-09,CUST057,Pune,West,Fashion,T-Shirt,3,650,0.15,1950,292.5,1657.5,1657.5,Credit Card,Online
+ORD0129,2025-09-10,2025,9,September,2025-09,CUST100,Chennai,South,Electronics,Keyboard,5,1100,0.0,5500,0.0,5500.0,5500.0,Cash,Store
+ORD0095,2025-09-14,2025,9,September,2025-09,CUST011,Pune,West,Books,Exam Guide,1,500,0.15,500,75.0,425.0,425.0,Cash,Store
+ORD0226,2025-09-14,2025,9,September,2025-09,CUST122,Chennai,South,Electronics,Wireless Mouse,2,650,0.05,1300,65.0,1235.0,1235.0,Cash,Online
+ORD0487,2025-09-16,2025,9,September,2025-09,CUST024,Bengaluru,South,Books,Biography,5,420,0.1,2100,210.0,1890.0,1890.0,Debit Card,Online
+ORD0036,2025-09-17,2025,9,September,2025-09,CUST095,Hyderabad,South,Home & Kitchen,Cookware Set,1,2600,0.0,2600,0.0,2600.0,2600.0,Debit Card,Online
+ORD0165,2025-09-17,2025,9,September,2025-09,CUST015,Chennai,South,Fashion,Backpack,4,1200,0.0,4800,0.0,4800.0,4800.0,Debit Card,Store
+ORD0032,2025-09-18,2025,9,September,2025-09,CUST061,Chennai,South,Home & Kitchen,Mixer Grinder,5,3200,0.0,16000,0.0,16000.0,16000.0,Cash,Online
+ORD0358,2025-09-18,2025,9,September,2025-09,CUST121,Chennai,South,Electronics,Wireless Mouse,2,650,0.0,1300,0.0,1300.0,1300.0,Debit Card,Store
+ORD0161,2025-09-19,2025,9,September,2025-09,CUST090,Mumbai,West,Electronics,Monitor,5,8500,0.0,42500,0.0,42500.0,42500.0,Debit Card,Online
+ORD0428,2025-09-19,2025,9,September,2025-09,CUST073,Mumbai,West,Fashion,Watch,5,2200,0.15,11000,1650.0,9350.0,9350.0,Debit Card,Online
+ORD0481,2025-09-19,2025,9,September,2025-09,CUST107,Mumbai,West,Fashion,T-Shirt,4,650,0.1,2600,260.0,2340.0,2340.0,Debit Card,Online
+ORD0192,2025-09-21,2025,9,September,2025-09,CUST074,Coimbatore,South,Books,Notebook Set,1,250,0.0,250,0.0,250.0,250.0,Debit Card,Online
+ORD0217,2025-09-21,2025,9,September,2025-09,CUST032,Pune,West,Electronics,Headphones,2,1800,0.1,3600,360.0,3240.0,3240.0,Debit Card,Store
+ORD0313,2025-09-22,2025,9,September,2025-09,CUST119,Bengaluru,South,Home & Kitchen,Cookware Set,5,2600,0.1,13000,1300.0,11700.0,11700.0,Credit Card,Store
+ORD0491,2025-09-22,2025,9,September,2025-09,CUST050,Hyderabad,South,Books,Exam Guide,1,500,0.05,500,25.0,475.0,475.0,Debit Card,Online
+ORD0461,2025-09-23,2025,9,September,2025-09,CUST089,Pune,West,Electronics,USB Drive,2,550,0.1,1100,110.0,990.0,990.0,Cash,Online
+ORD0160,2025-09-26,2025,9,September,2025-09,CUST086,Chennai,South,Books,Notebook Set,3,250,0.0,750,0.0,750.0,750.0,Credit Card,Online
+ORD0286,2025-09-28,2025,9,September,2025-09,CUST070,Chennai,South,Home & Kitchen,Electric Kettle,5,1400,0.1,7000,700.0,6300.0,6300.0,UPI,Online
+ORD0317,2025-09-28,2025,9,September,2025-09,CUST101,Mumbai,West,Fashion,Watch,4,2200,0.15,8800,1320.0,7480.0,7480.0,UPI,Store
+ORD0342,2025-09-29,2025,9,September,2025-09,CUST090,Pune,West,Electronics,Monitor,2,8500,0.1,17000,1700.0,15300.0,15300.0,Credit Card,Online
+ORD0383,2025-09-29,2025,9,September,2025-09,CUST062,Hyderabad,South,Home & Kitchen,Electric Kettle,1,1400,0.0,1400,0.0,1400.0,1400.0,Debit Card,Online
+ORD0074,2025-09-30,2025,9,September,2025-09,CUST004,Coimbatore,South,Fashion,T-Shirt,5,650,0.05,3250,162.5,3087.5,3087.5,Cash,Store
+ORD0009,2025-10-01,2025,10,October,2025-10,CUST070,Mumbai,West,Home & Kitchen,Electric Kettle,4,1400,0.1,5600,560.0,5040.0,5040.0,Credit Card,Store
+ORD0306,2025-10-01,2025,10,October,2025-10,CUST138,Pune,West,Books,Biography,1,420,0.05,420,21.0,399.0,399.0,UPI,Online
+ORD0496,2025-10-01,2025,10,October,2025-10,CUST092,Chennai,South,Electronics,Monitor,1,8500,0.0,8500,0.0,8500.0,8500.0,UPI,Store
+ORD0126,2025-10-02,2025,10,October,2025-10,CUST098,Chennai,South,Books,Notebook Set,3,250,0.15,750,112.5,637.5,637.5,Debit Card,Online
+ORD0222,2025-10-02,2025,10,October,2025-10,CUST094,Chennai,South,Electronics,USB Drive,2,550,0.05,1100,55.0,1045.0,1045.0,Cash,Store
+ORD0316,2025-10-02,2025,10,October,2025-10,CUST030,Bengaluru,South,Fashion,Sneakers,2,2800,0.1,5600,560.0,5040.0,5040.0,Debit Card,Store
+ORD0493,2025-10-03,2025,10,October,2025-10,CUST118,Mumbai,West,Books,Fiction Book,2,350,0.0,700,0.0,700.0,700.0,Debit Card,Online
+ORD0024,2025-10-04,2025,10,October,2025-10,CUST049,Bengaluru,South,Books,Technical Book,4,750,0.1,3000,300.0,2700.0,2700.0,UPI,Online
+ORD0069,2025-10-04,2025,10,October,2025-10,CUST008,Chennai,South,Fashion,Jeans,1,1600,0.0,1600,0.0,1600.0,1600.0,Credit Card,Online
+ORD0386,2025-10-05,2025,10,October,2025-10,CUST015,Hyderabad,South,Home & Kitchen,Water Bottle,1,450,0.0,450,0.0,450.0,450.0,Credit Card,Online
+ORD0399,2025-10-08,2025,10,October,2025-10,CUST008,Chennai,South,Fashion,Watch,5,2200,0.1,11000,1100.0,9900.0,9900.0,Cash,Online
+ORD0325,2025-10-09,2025,10,October,2025-10,CUST140,Pune,West,Electronics,Monitor,1,8500,0.05,8500,425.0,8075.0,8075.0,Debit Card,Online
+ORD0108,2025-10-10,2025,10,October,2025-10,CUST062,Pune,West,Books,Exam Guide,3,500,0.0,1500,0.0,1500.0,1500.0,Cash,Online
+ORD0081,2025-10-11,2025,10,October,2025-10,CUST091,Pune,West,Fashion,Backpack,5,1200,0.05,6000,300.0,5700.0,5700.0,Cash,Store
+ORD0266,2025-10-12,2025,10,October,2025-10,CUST082,Coimbatore,South,Electronics,Headphones,4,1800,0.15,7200,1080.0,6120.0,6120.0,Cash,Store
+ORD0462,2025-10-13,2025,10,October,2025-10,CUST121,Pune,West,Electronics,Wireless Mouse,2,650,0.15,1300,195.0,1105.0,1105.0,Cash,Online
+ORD0466,2025-10-13,2025,10,October,2025-10,CUST078,Pune,West,Electronics,Wireless Mouse,5,650,0.15,3250,487.5,2762.5,2762.5,Credit Card,Store
+ORD0012,2025-10-15,2025,10,October,2025-10,CUST103,Pune,West,Fashion,Watch,4,2200,0.15,8800,1320.0,7480.0,7480.0,Debit Card,Online
+ORD0041,2025-10-15,2025,10,October,2025-10,CUST010,Chennai,South,Electronics,Wireless Mouse,2,650,0.15,1300,195.0,1105.0,1105.0,Debit Card,Online
+ORD0202,2025-10-15,2025,10,October,2025-10,CUST157,Chennai,South,Fashion,Sneakers,4,2800,0.0,11200,0.0,11200.0,11200.0,Debit Card,Store
+ORD0275,2025-10-16,2025,10,October,2025-10,CUST150,Bengaluru,South,Home & Kitchen,Mixer Grinder,3,3200,0.15,9600,1440.0,8160.0,8160.0,Cash,Store
+ORD0414,2025-10-16,2025,10,October,2025-10,CUST068,Chennai,South,Fashion,Watch,3,2200,0.1,6600,660.0,5940.0,5940.0,Cash,Store
+ORD0134,2025-10-17,2025,10,October,2025-10,CUST056,Bengaluru,South,Electronics,Monitor,2,8500,0.15,17000,2550.0,14450.0,14450.0,Credit Card,Store
+ORD0150,2025-10-17,2025,10,October,2025-10,CUST024,Mumbai,West,Books,Fiction Book,2,350,0.0,700,0.0,700.0,700.0,Credit Card,Store
+ORD0357,2025-10-18,2025,10,October,2025-10,CUST147,Bengaluru,South,Fashion,Jeans,3,1600,0.0,4800,0.0,4800.0,4800.0,UPI,Online
+ORD0033,2025-10-19,2025,10,October,2025-10,CUST150,Bengaluru,South,Electronics,Monitor,1,8500,0.1,8500,850.0,7650.0,7650.0,Debit Card,Store
+ORD0348,2025-10-19,2025,10,October,2025-10,CUST019,Coimbatore,South,Fashion,Watch,2,2200,0.1,4400,440.0,3960.0,3960.0,UPI,Online
+ORD0402,2025-10-20,2025,10,October,2025-10,CUST001,Pune,West,Books,Technical Book,1,750,0.05,750,37.5,712.5,712.5,Cash,Online
+ORD0415,2025-10-20,2025,10,October,2025-10,CUST104,Pune,West,Books,Fiction Book,2,350,0.05,700,35.0,665.0,665.0,Credit Card,Store
+ORD0158,2025-10-21,2025,10,October,2025-10,CUST006,Coimbatore,South,Books,Notebook Set,1,250,0.1,250,25.0,225.0,225.0,Debit Card,Online
+ORD0097,2025-10-23,2025,10,October,2025-10,CUST072,Chennai,South,Home & Kitchen,Water Bottle,5,450,0.1,2250,225.0,2025.0,2025.0,Credit Card,Store
+ORD0147,2025-10-23,2025,10,October,2025-10,CUST028,Pune,West,Home & Kitchen,Electric Kettle,4,1400,0.0,5600,0.0,5600.0,5600.0,Debit Card,Store
+ORD0048,2025-10-25,2025,10,October,2025-10,CUST089,Hyderabad,South,Electronics,Wireless Mouse,5,650,0.1,3250,325.0,2925.0,2925.0,Debit Card,Store
+ORD0221,2025-10-26,2025,10,October,2025-10,CUST153,Hyderabad,South,Electronics,Wireless Mouse,3,650,0.1,1950,195.0,1755.0,1755.0,Cash,Store
+ORD0107,2025-10-28,2025,10,October,2025-10,CUST124,Pune,West,Books,Technical Book,4,750,0.15,3000,450.0,2550.0,2550.0,Debit Card,Store
+ORD0352,2025-10-28,2025,10,October,2025-10,CUST015,Mumbai,West,Electronics,Headphones,4,1800,0.0,7200,0.0,7200.0,7200.0,Credit Card,Online
+ORD0022,2025-10-29,2025,10,October,2025-10,CUST019,Pune,West,Home & Kitchen,Desk Lamp,2,900,0.0,1800,0.0,1800.0,1800.0,UPI,Online
+ORD0002,2025-10-30,2025,10,October,2025-10,CUST060,Coimbatore,South,Electronics,Wireless Mouse,1,650,0.0,650,0.0,650.0,650.0,UPI,Online
+ORD0385,2025-10-30,2025,10,October,2025-10,CUST145,Chennai,South,Fashion,Watch,5,2200,0.0,11000,0.0,11000.0,11000.0,Credit Card,Store
+ORD0073,2025-10-31,2025,10,October,2025-10,CUST031,Mumbai,West,Home & Kitchen,Mixer Grinder,3,3200,0.15,9600,1440.0,8160.0,8160.0,UPI,Store
+ORD0212,2025-10-31,2025,10,October,2025-10,CUST087,Pune,West,Home & Kitchen,Electric Kettle,5,1400,0.15,7000,1050.0,5950.0,5950.0,UPI,Online
+ORD0228,2025-10-31,2025,10,October,2025-10,CUST005,Hyderabad,South,Books,Biography,3,420,0.1,1260,126.0,1134.0,1134.0,Debit Card,Store
+ORD0315,2025-10-31,2025,10,October,2025-10,CUST072,Coimbatore,South,Books,Fiction Book,2,350,0.0,700,0.0,700.0,700.0,UPI,Online
+ORD0014,2025-11-02,2025,11,November,2025-11,CUST136,Chennai,South,Books,Exam Guide,5,500,0.1,2500,250.0,2250.0,2250.0,Debit Card,Online
+ORD0320,2025-11-02,2025,11,November,2025-11,CUST138,Bengaluru,South,Books,Exam Guide,2,500,0.1,1000,100.0,900.0,900.0,Credit Card,Online
+ORD0329,2025-11-02,2025,11,November,2025-11,CUST147,Pune,West,Home & Kitchen,Cookware Set,3,2600,0.05,7800,390.0,7410.0,7410.0,Debit Card,Online
+ORD0263,2025-11-03,2025,11,November,2025-11,CUST113,Mumbai,West,Electronics,Keyboard,1,1100,0.1,1100,110.0,990.0,990.0,Credit Card,Online
+ORD0096,2025-11-06,2025,11,November,2025-11,CUST151,Hyderabad,South,Electronics,Wireless Mouse,2,650,0.15,1300,195.0,1105.0,1105.0,UPI,Store
+ORD0049,2025-11-07,2025,11,November,2025-11,CUST066,Pune,West,Electronics,USB Drive,5,550,0.0,2750,0.0,2750.0,2750.0,UPI,Store
+ORD0227,2025-11-07,2025,11,November,2025-11,CUST042,Pune,West,Home & Kitchen,Cookware Set,5,2600,0.05,13000,650.0,12350.0,12350.0,Cash,Store
+ORD0400,2025-11-07,2025,11,November,2025-11,CUST053,Coimbatore,South,Home & Kitchen,Mixer Grinder,1,3200,0.05,3200,160.0,3040.0,3040.0,Credit Card,Store
+ORD0474,2025-11-08,2025,11,November,2025-11,CUST076,Mumbai,West,Home & Kitchen,Cookware Set,4,2600,0.05,10400,520.0,9880.0,9880.0,Cash,Online
+ORD0177,2025-11-09,2025,11,November,2025-11,CUST080,Hyderabad,South,Books,Technical Book,5,750,0.0,3750,0.0,3750.0,3750.0,Cash,Online
+ORD0470,2025-11-09,2025,11,November,2025-11,CUST118,Bengaluru,South,Home & Kitchen,Mixer Grinder,4,3200,0.0,12800,0.0,12800.0,12800.0,Credit Card,Store
+ORD0059,2025-11-10,2025,11,November,2025-11,CUST122,Mumbai,West,Books,Biography,4,420,0.0,1680,0.0,1680.0,1680.0,Cash,Store
+ORD0262,2025-11-11,2025,11,November,2025-11,CUST153,Chennai,South,Home & Kitchen,Electric Kettle,1,1400,0.0,1400,0.0,1400.0,1400.0,UPI,Store
+ORD0239,2025-11-12,2025,11,November,2025-11,CUST058,Mumbai,West,Home & Kitchen,Electric Kettle,1,1400,0.15,1400,210.0,1190.0,1190.0,Credit Card,Online
+ORD0159,2025-11-13,2025,11,November,2025-11,CUST063,Coimbatore,South,Fashion,T-Shirt,4,650,0.0,2600,0.0,2600.0,2600.0,Cash,Store
+ORD0449,2025-11-15,2025,11,November,2025-11,CUST159,Pune,West,Home & Kitchen,Water Bottle,1,450,0.15,450,67.5,382.5,382.5,UPI,Store
+ORD0456,2025-11-15,2025,11,November,2025-11,CUST030,Hyderabad,South,Electronics,Headphones,3,1800,0.0,5400,0.0,5400.0,5400.0,Cash,Store
+ORD0476,2025-11-16,2025,11,November,2025-11,CUST129,Mumbai,West,Fashion,Sneakers,2,2800,0.0,5600,0.0,5600.0,5600.0,Debit Card,Online
+ORD0090,2025-11-17,2025,11,November,2025-11,CUST045,Bengaluru,South,Fashion,T-Shirt,2,650,0.0,1300,0.0,1300.0,1300.0,UPI,Online
+ORD0299,2025-11-17,2025,11,November,2025-11,CUST078,Coimbatore,South,Home & Kitchen,Water Bottle,1,450,0.0,450,0.0,450.0,450.0,UPI,Store
+ORD0338,2025-11-17,2025,11,November,2025-11,CUST001,Hyderabad,South,Home & Kitchen,Water Bottle,1,450,0.0,450,0.0,450.0,450.0,Credit Card,Store
+ORD0122,2025-11-18,2025,11,November,2025-11,CUST149,Mumbai,West,Electronics,Headphones,4,1800,0.0,7200,0.0,7200.0,7200.0,Debit Card,Online
+ORD0214,2025-11-18,2025,11,November,2025-11,CUST104,Pune,West,Fashion,Sneakers,4,2800,0.0,11200,0.0,11200.0,11200.0,Debit Card,Store
+ORD0314,2025-11-19,2025,11,November,2025-11,CUST158,Bengaluru,South,Home & Kitchen,Water Bottle,4,450,0.0,1800,0.0,1800.0,1800.0,Credit Card,Store
+ORD0113,2025-11-20,2025,11,November,2025-11,CUST026,Mumbai,West,Fashion,Jeans,1,1600,0.1,1600,160.0,1440.0,1440.0,UPI,Store
+ORD0008,2025-11-22,2025,11,November,2025-11,CUST069,Hyderabad,South,Home & Kitchen,Cookware Set,3,2600,0.0,7800,0.0,7800.0,7800.0,UPI,Online
+ORD0098,2025-11-22,2025,11,November,2025-11,CUST086,Coimbatore,South,Electronics,USB Drive,3,550,0.1,1650,165.0,1485.0,1485.0,Debit Card,Online
+ORD0128,2025-11-22,2025,11,November,2025-11,CUST012,Coimbatore,South,Fashion,Backpack,1,1200,0.0,1200,0.0,1200.0,1200.0,UPI,Store
+ORD0211,2025-11-22,2025,11,November,2025-11,CUST137,Pune,West,Fashion,Jeans,3,1600,0.15,4800,720.0,4080.0,4080.0,UPI,Online
+ORD0347,2025-11-23,2025,11,November,2025-11,CUST082,Pune,West,Electronics,Monitor,1,8500,0.05,8500,425.0,8075.0,8075.0,Credit Card,Store
+ORD0367,2025-11-23,2025,11,November,2025-11,CUST112,Coimbatore,South,Electronics,Monitor,5,8500,0.0,42500,0.0,42500.0,42500.0,Credit Card,Online
+ORD0001,2025-11-24,2025,11,November,2025-11,CUST036,Chennai,South,Electronics,Headphones,2,1800,0.0,3600,0.0,3600.0,3600.0,UPI,Online
+ORD0017,2025-11-24,2025,11,November,2025-11,CUST139,Pune,West,Home & Kitchen,Electric Kettle,3,1400,0.0,4200,0.0,4200.0,4200.0,UPI,Store
+ORD0393,2025-11-24,2025,11,November,2025-11,CUST020,Pune,West,Electronics,USB Drive,2,550,0.05,1100,55.0,1045.0,1045.0,Credit Card,Store
+ORD0405,2025-11-25,2025,11,November,2025-11,CUST095,Pune,West,Books,Technical Book,3,750,0.1,2250,225.0,2025.0,2025.0,Credit Card,Store
+ORD0379,2025-11-28,2025,11,November,2025-11,CUST016,Hyderabad,South,Books,Exam Guide,5,500,0.1,2500,250.0,2250.0,2250.0,UPI,Store
+ORD0003,2025-11-29,2025,11,November,2025-11,CUST072,Mumbai,West,Books,Technical Book,4,750,0.15,3000,450.0,2550.0,2550.0,UPI,Online
+ORD0028,2025-11-30,2025,11,November,2025-11,CUST105,Pune,West,Electronics,Wireless Mouse,2,650,0.0,1300,0.0,1300.0,1300.0,Cash,Store
+ORD0242,2025-11-30,2025,11,November,2025-11,CUST107,Pune,West,Home & Kitchen,Desk Lamp,1,900,0.0,900,0.0,900.0,900.0,Credit Card,Online
+ORD0425,2025-11-30,2025,11,November,2025-11,CUST045,Coimbatore,South,Electronics,Wireless Mouse,4,650,0.0,2600,0.0,2600.0,2600.0,UPI,Online
+ORD0241,2025-12-01,2025,12,December,2025-12,CUST074,Coimbatore,South,Books,Technical Book,3,750,0.05,2250,112.5,2137.5,2137.5,UPI,Online
+ORD0447,2025-12-01,2025,12,December,2025-12,CUST098,Chennai,South,Electronics,Wireless Mouse,4,650,0.1,2600,260.0,2340.0,2340.0,UPI,Store
+ORD0172,2025-12-02,2025,12,December,2025-12,CUST080,Mumbai,West,Books,Technical Book,5,750,0.0,3750,0.0,3750.0,3750.0,Cash,Store
+ORD0193,2025-12-02,2025,12,December,2025-12,CUST103,Hyderabad,South,Fashion,T-Shirt,3,650,0.1,1950,195.0,1755.0,1755.0,Cash,Store
+ORD0230,2025-12-02,2025,12,December,2025-12,CUST044,Pune,West,Home & Kitchen,Mixer Grinder,5,3200,0.1,16000,1600.0,14400.0,14400.0,Cash,Online
+ORD0431,2025-12-02,2025,12,December,2025-12,CUST100,Coimbatore,South,Fashion,Sneakers,4,2800,0.1,11200,1120.0,10080.0,10080.0,UPI,Online
+ORD0433,2025-12-03,2025,12,December,2025-12,CUST033,Pune,West,Home & Kitchen,Cookware Set,1,2600,0.1,2600,260.0,2340.0,2340.0,Debit Card,Online
+ORD0025,2025-12-04,2025,12,December,2025-12,CUST014,Coimbatore,South,Fashion,Backpack,4,1200,0.1,4800,480.0,4320.0,4320.0,UPI,Online
+ORD0007,2025-12-05,2025,12,December,2025-12,CUST098,Bengaluru,South,Fashion,T-Shirt,2,650,0.0,1300,0.0,1300.0,1300.0,Debit Card,Store
+ORD0196,2025-12-05,2025,12,December,2025-12,CUST043,Hyderabad,South,Fashion,Backpack,5,1200,0.1,6000,600.0,5400.0,5400.0,Cash,Store
+ORD0391,2025-12-07,2025,12,December,2025-12,CUST033,Pune,West,Home & Kitchen,Water Bottle,3,450,0.05,1350,67.5,1282.5,1282.5,Credit Card,Online
+ORD0043,2025-12-08,2025,12,December,2025-12,CUST040,Chennai,South,Fashion,Watch,4,2200,0.15,8800,1320.0,7480.0,7480.0,Credit Card,Online
+ORD0204,2025-12-08,2025,12,December,2025-12,CUST077,Hyderabad,South,Electronics,Monitor,5,8500,0.05,42500,2125.0,40375.0,40375.0,Credit Card,Online
+ORD0130,2025-12-10,2025,12,December,2025-12,CUST026,Mumbai,West,Books,Biography,2,420,0.1,840,84.0,756.0,756.0,Cash,Store
+ORD0229,2025-12-11,2025,12,December,2025-12,CUST153,Chennai,South,Books,Biography,3,420,0.0,1260,0.0,1260.0,1260.0,Cash,Store
+ORD0127,2025-12-12,2025,12,December,2025-12,CUST084,Bengaluru,South,Books,Fiction Book,5,350,0.15,1750,262.5,1487.5,1487.5,Credit Card,Online
+ORD0499,2025-12-13,2025,12,December,2025-12,CUST037,Mumbai,West,Fashion,T-Shirt,5,650,0.15,3250,487.5,2762.5,2762.5,UPI,Online
+ORD0154,2025-12-14,2025,12,December,2025-12,CUST057,Mumbai,West,Books,Biography,3,420,0.0,1260,0.0,1260.0,1260.0,Cash,Online
+ORD0170,2025-12-14,2025,12,December,2025-12,CUST025,Pune,West,Electronics,Headphones,1,1800,0.05,1800,90.0,1710.0,1710.0,Cash,Store
+ORD0015,2025-12-15,2025,12,December,2025-12,CUST029,Mumbai,West,Electronics,Monitor,3,8500,0.05,25500,1275.0,24225.0,24225.0,Debit Card,Store
+ORD0231,2025-12-15,2025,12,December,2025-12,CUST005,Bengaluru,South,Electronics,Monitor,1,8500,0.0,8500,0.0,8500.0,8500.0,Cash,Store
+ORD0252,2025-12-15,2025,12,December,2025-12,CUST093,Pune,West,Electronics,Monitor,4,8500,0.15,34000,5100.0,28900.0,28900.0,UPI,Online
+ORD0434,2025-12-15,2025,12,December,2025-12,CUST079,Hyderabad,South,Electronics,Keyboard,3,1100,0.0,3300,0.0,3300.0,3300.0,Cash,Store
+ORD0411,2025-12-16,2025,12,December,2025-12,CUST082,Coimbatore,South,Home & Kitchen,Electric Kettle,5,1400,0.05,7000,350.0,6650.0,6650.0,UPI,Online
+ORD0490,2025-12-16,2025,12,December,2025-12,CUST139,Hyderabad,South,Books,Fiction Book,4,350,0.05,1400,70.0,1330.0,1330.0,Debit Card,Online
+ORD0287,2025-12-17,2025,12,December,2025-12,CUST054,Hyderabad,South,Electronics,Keyboard,3,1100,0.0,3300,0.0,3300.0,3300.0,Credit Card,Store
+ORD0323,2025-12-17,2025,12,December,2025-12,CUST022,Coimbatore,South,Books,Exam Guide,4,500,0.0,2000,0.0,2000.0,2000.0,UPI,Online
+ORD0132,2025-12-18,2025,12,December,2025-12,CUST049,Hyderabad,South,Fashion,T-Shirt,4,650,0.05,2600,130.0,2470.0,2470.0,UPI,Store
+ORD0497,2025-12-18,2025,12,December,2025-12,CUST102,Hyderabad,South,Electronics,Headphones,4,1800,0.1,7200,720.0,6480.0,6480.0,UPI,Store
+ORD0250,2025-12-20,2025,12,December,2025-12,CUST057,Chennai,South,Fashion,Sneakers,5,2800,0.0,14000,0.0,14000.0,14000.0,Credit Card,Store
+ORD0345,2025-12-20,2025,12,December,2025-12,CUST131,Chennai,South,Fashion,Jeans,5,1600,0.15,8000,1200.0,6800.0,6800.0,Credit Card,Store
+ORD0249,2025-12-21,2025,12,December,2025-12,CUST041,Bengaluru,South,Electronics,Wireless Mouse,4,650,0.05,2600,130.0,2470.0,2470.0,Cash,Store
+ORD0395,2025-12-21,2025,12,December,2025-12,CUST013,Chennai,South,Fashion,Sneakers,1,2800,0.0,2800,0.0,2800.0,2800.0,Cash,Store
+ORD0302,2025-12-22,2025,12,December,2025-12,CUST097,Mumbai,West,Books,Biography,2,420,0.05,840,42.0,798.0,798.0,Debit Card,Store
+ORD0401,2025-12-23,2025,12,December,2025-12,CUST025,Pune,West,Fashion,Sneakers,3,2800,0.0,8400,0.0,8400.0,8400.0,UPI,Store
+ORD0407,2025-12-23,2025,12,December,2025-12,CUST106,Mumbai,West,Electronics,Wireless Mouse,3,650,0.15,1950,292.5,1657.5,1657.5,Credit Card,Online
+ORD0004,2025-12-24,2025,12,December,2025-12,CUST087,Coimbatore,South,Fashion,Sneakers,2,2800,0.0,5600,0.0,5600.0,5600.0,UPI,Online
+ORD0071,2025-12-25,2025,12,December,2025-12,CUST030,Hyderabad,South,Fashion,Jeans,5,1600,0.15,8000,1200.0,6800.0,6800.0,Credit Card,Store
+ORD0120,2025-12-25,2025,12,December,2025-12,CUST145,Hyderabad,South,Electronics,USB Drive,3,550,0.0,1650,0.0,1650.0,1650.0,UPI,Store
+ORD0413,2025-12-25,2025,12,December,2025-12,CUST038,Pune,West,Books,Fiction Book,4,350,0.0,1400,0.0,1400.0,1400.0,UPI,Online
+ORD0045,2025-12-26,2025,12,December,2025-12,CUST052,Chennai,South,Books,Fiction Book,4,350,0.0,1400,0.0,1400.0,1400.0,Cash,Store
+ORD0392,2025-12-26,2025,12,December,2025-12,CUST155,Pune,West,Books,Biography,1,420,0.0,420,0.0,420.0,420.0,Debit Card,Online
+ORD0469,2025-12-26,2025,12,December,2025-12,CUST105,Chennai,South,Electronics,Keyboard,4,1100,0.0,4400,0.0,4400.0,4400.0,UPI,Store
+ORD0451,2025-12-27,2025,12,December,2025-12,CUST128,Coimbatore,South,Fashion,Jeans,1,1600,0.15,1600,240.0,1360.0,1360.0,Credit Card,Store
+ORD0092,2025-12-28,2025,12,December,2025-12,CUST151,Hyderabad,South,Books,Fiction Book,2,350,0.05,700,35.0,665.0,665.0,Credit Card,Store
+ORD0233,2025-12-28,2025,12,December,2025-12,CUST135,Bengaluru,South,Home & Kitchen,Desk Lamp,3,900,0.1,2700,270.0,2430.0,2430.0,Cash,Store
+ORD0268,2025-12-29,2025,12,December,2025-12,CUST107,Bengaluru,South,Books,Fiction Book,5,350,0.1,1750,175.0,1575.0,1575.0,Credit Card,Store
+ORD0304,2025-12-29,2025,12,December,2025-12,CUST128,Bengaluru,South,Books,Notebook Set,1,250,0.1,250,25.0,225.0,225.0,Credit Card,Store
+ORD0103,2025-12-30,2025,12,December,2025-12,CUST105,Bengaluru,South,Fashion,Watch,1,2200,0.15,2200,330.0,1870.0,1870.0,UPI,Online
+ORD0140,2025-12-31,2025,12,December,2025-12,CUST038,Coimbatore,South,Electronics,Wireless Mouse,3,650,0.15,1950,292.5,1657.5,1657.5,UPI,Online
