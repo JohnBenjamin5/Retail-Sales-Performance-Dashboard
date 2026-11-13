@@ -19,3 +19,4 @@ Tools & Technologies:
 Outcome:
 Created an interactive retail sales dashboard that converts raw sales data into meaningful visual insights, helping users understand business performance and identify sales trends.
 
+ 
